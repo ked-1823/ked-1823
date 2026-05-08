@@ -164,8 +164,6 @@ Currently focused on developing **industry-ready AI/ML skills** through hands-on
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ked-1823)
 
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_kedar_18)
-
 📧 Email: manekedar287@gmail.com
 
 ---

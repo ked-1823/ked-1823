@@ -1,9 +1,9 @@
-# Hi 👋, I'm Kedarnath Mane
+# Hi 👋, I'm Kedar Mane
 
 ### AI/ML Engineer | Data Science Enthusiast | Computer Vision Developer
 
-Passionate about building **real-world AI solutions** using Machine Learning, Deep Learning, NLP, and Computer Vision.  
-Currently focused on developing **industry-ready AI/ML skills** through hands-on projects, internships, and continuous learning.
+Working on **AI systems and data-driven applications** using **Machine Learning, Deep Learning, NLP, and Computer Vision**.  
+Focused on building practical projects, improving deployment skills, and developing production-ready AI solutions.
 
 ---
 

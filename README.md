@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kedar Mane
 
-### AI/ML Engineer | Data Science Enthusiast | Computer Vision Developer
+### AI/ML Engineer | Data Science Enthusiast | Software Engineer
 
 Working on **AI systems and data-driven applications** using **Machine Learning, Deep Learning, NLP, and Computer Vision**.  
 Focused on building practical projects, improving deployment skills, and developing production-ready AI solutions.
@@ -41,6 +41,11 @@ Focused on building practical projects, improving deployment skills, and develop
 ## 👁️ Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+## ⚙️ DevOps & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
